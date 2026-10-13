@@ -1,7 +1,7 @@
 # Superstore Sales Analysis
 
 > Practice project: exploratory analysis of the Sample Superstore dataset to build hands-on skills in Python, Pandas, and data storytelling.
-
+**Live Dashboard:** [Open the Streamlit dashboard](https://superstore-sales-ana1ysis.streamlit.app/)
 ## Overview
 
 This project analyzes four years of retail sales data (2014-2017) to understand when sales peak, which products lose money, and how discounts affect profit.
