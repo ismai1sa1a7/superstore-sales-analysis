@@ -20,4 +20,4 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 ## Files
 
 - `superstore_analysis.ipynb`: full analysis with charts and insights
-- `data/`: the dataset
+- \Data/`: the dataset`
